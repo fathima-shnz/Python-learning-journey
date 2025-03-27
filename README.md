@@ -38,9 +38,4 @@ This repository contains beginner-friendly Python exercises and solutions that I
 ⬜ Libraries for Data Analytics (Pandas, NumPy, Matplotlib)  
 ⬜ Projects & Portfolio Building  
 
-## Connect With Me 🤝
-I'm always open to feedback, suggestions, and collaboration! If you're also learning Python, feel free to connect with me:
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
 
-Happy Coding! 🚀
